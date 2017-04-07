@@ -1,5 +1,5 @@
 {
-    "name": "denour/certificados",
+    "name": "denour/errorHandler",
     "description": "Dependencia que maneja codigos de errores con mensajes",
     "type": "project",
     "require": {},
