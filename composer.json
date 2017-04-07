@@ -1,6 +1,6 @@
 {
     "name": "denour/certificados",
-    "description": "Dependencia que maneja codigos de errores con mensajes',
+    "description": "Dependencia que maneja codigos de errores con mensajes",
     "type": "project",
     "require": {},
     "autoload":{
