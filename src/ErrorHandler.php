@@ -44,7 +44,7 @@ class ErrorHandler
 
         if (is_array($attributes)) {
             list($search, $replace) = $attributes;
-            $this->Description = str_replace($search, $replace, $this->Messages);
+            $this->Description = str_replace($search, $replace, $this->Description);
         }
 
     }
